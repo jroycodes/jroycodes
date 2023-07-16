@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Jonathan!</h1>
 <h3 align="left">Am a self taught Frontend developer.</h3>
 
-- 🔭 I’m currently working on **Safe tour LP**
+- 🔭 I’m currently working on a **Online Courses landing page**
 - 🌱 Currently learning **JavaScript**
 - 🤝 Happy to collaborate with other passionate devs.
 - 📫 Reach me at **jonaisroy@gmail.com**
